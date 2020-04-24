@@ -1,2 +1,2 @@
 # MySql-Duke
-Coursera - Managing Big Data with MySql - Duke Uni
+Coursera - Managing Big Data with MySql - Duke University
